@@ -1,0 +1,12 @@
+{
+    "display_name": "Live2D+",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "dist/index.js",
+    "css": "",
+    "author": "ZephyrThePink",
+    "version": "0.2.0",
+    "homePage": "https://github.com/zephyrthepink/live-2d-plus",
+    "auto_update": true
+}
